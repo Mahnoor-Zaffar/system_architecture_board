@@ -201,7 +201,7 @@ export function CanvasEditor({ projectId, pendingTemplate, onTemplateImported, o
     (event: React.DragEvent) => {
       event.preventDefault()
 
-      const raw = event.dataTransfer.getData("application/ghost-shape")
+      const raw = event.dataTransfer.getData("application/system-architecture-board-shape")
       if (!raw) return
 
       let payload: { shape: NodeShape; size: { width: number; height: number } }

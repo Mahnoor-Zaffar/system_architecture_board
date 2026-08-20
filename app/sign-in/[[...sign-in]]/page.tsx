@@ -37,7 +37,7 @@ export default function SignInPage() {
               </span>
             </div>
             <span className="text-sm font-semibold text-text-primary">
-              Ghost AI
+              system_architecture_board
             </span>
           </div>
         </div>
@@ -49,7 +49,7 @@ export default function SignInPage() {
             speed of thought.
           </h1>
           <p className="text-text-secondary text-base leading-relaxed mb-12 max-w-sm">
-            Describe your architecture in plain English. Ghost AI maps it to a
+            Describe your architecture in plain English. system_architecture_board maps it to a
             shared canvas your whole team can refine in real time.
           </p>
 
@@ -74,7 +74,7 @@ export default function SignInPage() {
 
         <div className="px-12 pb-10">
           <p className="text-xs text-text-faint">
-            © 2026 Ghost AI. All rights reserved.
+            © 2026 system_architecture_board. All rights reserved.
           </p>
         </div>
       </div>

@@ -1,8 +1,6 @@
-# Ghost AI
+# system_architecture_board
 
 <div align="center">
-  <img src="public/readme/readme-hero.webp" alt="Ghost AI collaborative system design workspace" width="100%" />
-
   <p><strong>Collaborative system design, accelerated by AI.</strong></p>
   <p>Describe an architecture, refine it with your team on a live canvas, and generate a durable technical specification.</p>
 
@@ -16,7 +14,7 @@
 
 ## Overview
 
-Ghost AI is a full-stack system design workspace for turning product requirements into collaborative architecture diagrams and implementation-ready technical specifications.
+system_architecture_board is a full-stack system design workspace for turning product requirements into collaborative architecture diagrams and implementation-ready technical specifications.
 
 Users can create a project, prompt an AI architect in natural language, and watch it apply structured changes to a shared canvas. Team members can edit the same graph in real time, discuss decisions in project chat, and generate persistent Markdown specifications from the final design.
 
@@ -127,7 +125,7 @@ types/                  Shared canvas and task contracts
 
 ```bash
 git clone <repository-url>
-cd ghost-ai
+cd system_architecture_board
 npm install
 ```
 
